@@ -34,15 +34,15 @@ Audit associate with 2 years of practical experience in the technology industry.
 •	Team player and independent worker  
 •	Able to work under tight deadline  
 
-## Professional Certifications  
+## 🎓 Professional Certifications  
 
 • RISE by DigitalBCG Academy, Business and Data Analytics  
 • Data Analyst Professional Certification, DataCamp  
 • Google Data Analytics Specialisation, Coursera  
 
-## Summary of Projects  
+## 📝 Summary of Projects  
 
-## Recent Updates  
+## 🆕 Recent Updates  
 
 
 
