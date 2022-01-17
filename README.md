@@ -1,9 +1,9 @@
-#### Gasper Wong Zheng Kok
+# Gasper Wong Zheng Kok
 
 Linkedin : https://www.linkedin.com/in/gasperwong/  
 Portfolio Website: 
 
-### Background
+## Background
 Audit associate with 2 years of practical experience in the technology industry. Currently attending Rapid & Immersive Skill Enhancement (RISE) by DigitalBCG Academy specialising in data analytics. Strong passion in using data to help businesses succeed and looking for a role as a data analyst. Analysed reports generated using data analytics tool in the previous role and derived relevant insights which helped to identify potential areas of concern for discussion with management. Competent in Python, SQL and Power BI. 
 
 ## Technical Skills
@@ -21,13 +21,13 @@ Audit associate with 2 years of practical experience in the technology industry.
 •	Team player and independent worker  
 •	Able to work under tight deadline  
 
-### Professional Certifications 
+## Professional Certifications 
 
 • RISE by DigitalBCG Academy, Business and Data Analytics  
 • Data Analyst Professional Certification, DataCamp  
 • Google Data Analytics Specialisation, Coursera  
 
-### Summary of Projects
+## Summary of Projects
 
 ### Recent Updates
 
