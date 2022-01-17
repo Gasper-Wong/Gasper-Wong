@@ -1,7 +1,7 @@
-### Hi there 👋
+##Background
+Audit associate with 2 years of practical experience in the technology industry. Currently attending Rapid & Immersive Skill Enhancement (RISE) by DigitalBCG Academy specialising in data analytics. Strong passion in using data to help businesses succeed and looking for a role as a data analyst. Analysed reports generated using data analytics tool in the previous role and derived relevant insights which helped to identify potential areas of concern for discussion with management. Competent in Python, SQL and Power BI. 
 
-<!--
-**Gasper-Wong/Gasper-Wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/gasperwong/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
