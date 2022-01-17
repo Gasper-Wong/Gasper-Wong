@@ -15,7 +15,7 @@ Audit associate with 2 years of practical experience in the technology industry.
 ## 🏅 Achievements  
 
 •	Convinced client on the proper accounting treatment for an accounting issue identified which resulted in a successful financial reporting  
-•	Awarded the Chief of Artillery coin during national service for contribution to the successful Singapore Quality Class (SQC) re-certification by Artillery Institute  
+•	Awarded the Chief of Artillery coin for contribution to the successful Singapore Quality Class (SQC) re-certification by Artillery Institute  
 •	Social Service Award (Platinum) for involvement in community work (>80 hours), Anderson Junior College  
 
 ## 🛠️ Technical Skills  
