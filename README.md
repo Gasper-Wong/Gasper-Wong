@@ -45,7 +45,6 @@ Audit associate with 2 years of practical experience in the technology industry.
 Please look at my repositories for more info :)  
 
 ## 🆕 Recent Updates  
-1. Relooking at my machine learning notebook for further improvements
-2. To embark on new data analytics project and share them at a later date
+1. To embark on new data analytics project and share them at a later date
 
 
