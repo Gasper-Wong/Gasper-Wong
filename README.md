@@ -40,9 +40,10 @@ Audit associate with 2 years of practical experience in the technology industry.
 • Data Analyst Professional Certification, DataCamp  
 • Google Data Analytics Specialisation, Coursera  
 
-## 📝 Summary of Projects  
+## 📝 Projects  
 
-Please look at my repositories for more info :)  
+1. Please look at my repositories for more info :)  
+2. [Datacamp Competition - Reducing employee turnover](https://app.datacamp.com/workspace/w/d0a5efa5-dcc7-4f8c-beb6-ffe45362f2f1)
 
 ## 🆕 Recent Updates  
 1. To embark on new data analytics project and share them at a later date
